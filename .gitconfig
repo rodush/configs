@@ -18,6 +18,7 @@
   email = rodush@gmail.com
 [alias]
   co = checkout
+  ci = commit
   ds = diff --staged
   df = diff
   st = status
